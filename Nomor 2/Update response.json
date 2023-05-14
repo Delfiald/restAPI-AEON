@@ -1,0 +1,1 @@
+{"status":true,"messages":[],"payload":{"idKaryawan":3,"createdDate":"2023-05-14T10:53:23.626+00:00","deletedDate":null,"updatedDate":"2023-05-14T10:53:23.626+00:00","alamat":"Jakarta","dob":"1998-05-05T00:00:00.000+00:00","jk":"Laki-Laki","nama":"Dende","status":"Tetap","detailKaryawan":{"idDetail":3,"nik":"123","npwp":"123"},"rekening":null,"karyawanTraining":null}}
